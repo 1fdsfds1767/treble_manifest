@@ -13,7 +13,7 @@
 <project path="prebuilts/vndk/v29" name="platform/prebuilts/vndk/v29" remote="aosp" revision="2e659f04a7cde964415c82dd7507610769165408" clone-depth="1" />
   
 <project path="patches" name="Doze-off/patches" remote="github" revision="patches-16" clone-depth="1" />
-<project path="device/SewqPL/pixelos" name="SewqPL/treble_pixelos" remote="github" revision="sixteen" clone-depth="1" />
+<project path="device/1fdsfds1767/pixelos" name="1fdsfds1767/treble_pixelos" remote="github" revision="sixteen" clone-depth="1" />
 
 <project path="packages/apps/OpenEUICC" name="PeterCxy/OpenEUICC" remote="angryim" revision="master" clone-depth="1" sync-s="true" />
 <project path="prebuilts/openeuicc-deps" name="PeterCxy/android_prebuilts_openeuicc-deps" remote="angryim" revision="master" clone-depth="1" />
